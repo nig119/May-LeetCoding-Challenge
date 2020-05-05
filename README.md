@@ -6,3 +6,5 @@
 >3. [Ransom Note](./Day_3_Ransom_Note)
 
 >4. [Number Complement](./Day_4_Number_Complement)
+
+>5. [First Unique Character in a String](./Day_5_First_Unique_Character_in_a_String)
