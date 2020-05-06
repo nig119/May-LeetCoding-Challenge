@@ -8,3 +8,5 @@
 >4. [Number Complement](./Day_4_Number_Complement)
 
 >5. [First Unique Character in a String](./Day_5_First_Unique_Character_in_a_String)
+
+>6. [Majority Element](./Day_6_Majority_Element)
