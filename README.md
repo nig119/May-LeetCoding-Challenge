@@ -10,3 +10,5 @@
 >5. [First Unique Character in a String](./Day_5_First_Unique_Character_in_a_String)
 
 >6. [Majority Element](./Day_6_Majority_Element)
+
+>7. [Cousins in Binary Tree](./Day_7_Cousins_in_Binary_Tree)
