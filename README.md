@@ -12,3 +12,5 @@
 >6. [Majority Element](./Day_6_Majority_Element)
 
 >7. [Cousins in Binary Tree](./Day_7_Cousins_in_Binary_Tree)
+
+>8. [Check If It Is a Straight Line](./Day_8_Check_If_It_Is_a_Straight_Line)
