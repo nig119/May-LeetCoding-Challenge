@@ -20,3 +20,5 @@
 >10. [Find the Town Judge](./Day_10_Find_the_Town_Judge)
 
 >11. [Flood Fill](./Day_11_Flood_Fill)
+
+>12. [Single Element in a Sorted Array](./Day_12_Single_Element_in_a_Sorted_Array)
