@@ -22,3 +22,5 @@
 >11. [Flood Fill](./Day_11_Flood_Fill)
 
 >12. [Single Element in a Sorted Array](./Day_12_Single_Element_in_a_Sorted_Array)
+
+>13. [Remove K Digits](./Day_13_Remove_K_Digits)
