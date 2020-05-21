@@ -36,3 +36,5 @@
 >18. [Permutation in String](./Day_18_Permutation_in_String)
 
 >19. [Online Stock Span](./Day_19_Online_Stock_Span)
+
+>20. [Kth Smallest Element in a BST](./Day_20_Kth_Smallest_Element_in_a_BST)
