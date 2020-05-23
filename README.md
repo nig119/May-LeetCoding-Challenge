@@ -38,3 +38,5 @@
 >19. [Online Stock Span](./Day_19_Online_Stock_Span)
 
 >20. [Kth Smallest Element in a BST](./Day_20_Kth_Smallest_Element_in_a_BST)
+
+>21. [Count Square Submatrices with All One](./Day_21_Count_Square_Submatrices_with_All_Ones)
