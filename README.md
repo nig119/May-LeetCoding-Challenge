@@ -40,3 +40,5 @@
 >20. [Kth Smallest Element in a BST](./Day_20_Kth_Smallest_Element_in_a_BST)
 
 >21. [Count Square Submatrices with All One](./Day_21_Count_Square_Submatrices_with_All_Ones)
+
+>22. [Sort Characters By Frequency](./Day_22_Sort_Characters_By_Frequency)

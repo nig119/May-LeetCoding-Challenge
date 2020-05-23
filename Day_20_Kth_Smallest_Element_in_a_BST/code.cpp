@@ -25,13 +25,13 @@ public:
             rec(root->right,k,out);
             if (*out != INT_MIN) return ;
         }
-        
+
     }
     int kthSmallest(TreeNode* root, int k) {
         int p = k ;
         int out = INT_MIN ;
         rec(root, &p, &out);
         return out;
-        
+
     }
 };

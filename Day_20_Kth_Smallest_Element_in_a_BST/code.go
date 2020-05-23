@@ -29,5 +29,5 @@ func kthSmallest(root *TreeNode, k int) int {
         }
         root = root.Right
     }
-    return root.Val   
+    return root.Val
 }
