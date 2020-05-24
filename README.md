@@ -44,3 +44,5 @@
 >22. [Sort Characters By Frequency](./Day_22_Sort_Characters_By_Frequency)
 
 >23. [Interval List Intersections](./Day_23_Interval_List_Intersections)
+
+>24. [Construct Binary Search Tree from Preorder Traversal](./Day_24_Construct_Binary_Search_Tree_from_Preorder_Traversal)
