@@ -50,3 +50,6 @@
 >25. [Uncrossed Lines](./Day_25_Uncrossed_Lines)
 
 >26. [Contiguous Array](./Day_26_Contiguous_Array)
+
+>27. [Possible Bipartition](./Day_27_Possible_Bipartition)
+
