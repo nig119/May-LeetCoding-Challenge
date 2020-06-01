@@ -56,3 +56,5 @@
 >28. [Counting Bits](./Day_28_Counting_Bits)
 
 >29. [Course Schedule](./Day_29_Course_Schedule)
+
+>30. [K Closest Points to Origin](./Day_30_K_Closest_Points_to_Origin)
