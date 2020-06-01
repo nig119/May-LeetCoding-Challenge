@@ -54,3 +54,5 @@
 >27. [Possible Bipartition](./Day_27_Possible_Bipartition)
 
 >28. [Counting Bits](./Day_28_Counting_Bits)
+
+>29. [Course Schedule](./Day_29_Course_Schedule)
